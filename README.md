@@ -1,4 +1,4 @@
-# 🩺 Doctor’s Handwriting Prediction using Deep Learning
+# 🩺 Doctor’s Handwriting Prediction using Deep Learning and Computer Vision
 
 ## 📘 Overview
 This project aims to **decode and predict handwritten text from doctors' prescriptions** using modern **deep learning techniques**.  
